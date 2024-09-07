@@ -2,7 +2,7 @@
 
 <br>
 
-<img align='right' src="https://media3.giphy.com/media/QkwRsjstM5ioQUmZAw/giphy.webp?cid=790b7611d0nsdbmpn3hgs65nrnipruhad2hgf6yn3w14fs4q&ep=v1_gifs_search&rid=giphy.webp&ct=g">
+<img align='right' src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHpvYWtna2g0ODF5bmp6Mm9kZml2NGJ1OWlzMHFtZGJmYTlvc2wzMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o6UBedJJfaxXHvZyU/giphy.webp">
 
 - 🌱 I’m currently learning: **SOC & InfSec**
 
