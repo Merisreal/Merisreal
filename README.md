@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/d873a2ec-5a91-4968-acec-b83434ff6b4e)<h1 align="center">Hi, I'm Manh Nguyen (Aka Merisnotreal) <img  align="center" alt="Coding" width="40" src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif"> </h1>
+<h1 align="center">Hi, I'm Manh Nguyen (Aka Merisnotreal) <img  align="center" alt="Coding" width="40" src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif"> </h1>
 
 <br>
 
