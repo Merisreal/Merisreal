@@ -20,7 +20,6 @@
 <img align="left" alt="wordpress" width="35px" src="https://cdn.worldvectorlogo.com/logos/elastic-stack.svg" />
 <img align="left" alt="wordpress" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Wireshark_icon_new.png" />
 <img align="left" alt="wordpress" width="35px" src="https://www.netresec.com/images/NetworkMiner-FLARE-VM-logo_520x520.png"/>
-<img align="left" alt="wordpress" width="35px" src="https://e7.pngegg.com/pngimages/899/221/png-clipart-splunk-vertical-logo-tech-companies-thumbnail.pngg"/>
 <img align="left" alt="wordpress" width="35px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/>
 <img align="left" alt="wordpress" width="35px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzoMhENcF0CpQ0y601DUDT-_E_j71Oskj8Vw&s"/>
 <img align="left" alt="wordpress" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"/>
