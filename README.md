@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Manh Nguyen (Aka Merisnotreal) <img  align="center" alt="Coding" width="40" src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif"> </h1>
+![image](https://github.com/user-attachments/assets/d873a2ec-5a91-4968-acec-b83434ff6b4e)<h1 align="center">Hi, I'm Manh Nguyen (Aka Merisnotreal) <img  align="center" alt="Coding" width="40" src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif"> </h1>
 
 <br>
 
@@ -15,17 +15,14 @@
 
 <br />
 
-### Programming language
+
 
 <img align="left" alt="wordpress" width="35px" src="https://cdn.worldvectorlogo.com/logos/elastic-stack.svg" />
-<img align="left" alt="wordpress" width="35px" src="https://img.icons8.com/color/48/000000/css3.png" />
-<img align="left" alt="wordpress" width="35px" src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
-<img align="left" alt="wordpress" width="35px" src="https://img.icons8.com/color/48/000000/python--v1.png"/>
+<img align="left" alt="wordpress" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Wireshark_icon_new.png" />
+<img align="left" alt="wordpress" width="35px" src="https://www.netresec.com/images/NetworkMiner-FLARE-VM-logo_520x520.png"/>
+<img align="left" alt="wordpress" width="35px" src="https://e7.pngegg.com/pngimages/899/221/png-clipart-splunk-vertical-logo-tech-companies-thumbnail.pngg"/>
 <img align="left" alt="wordpress" width="35px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/>
-<img align="left" alt="wordpress" width="35px" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg"/>
-<img align="left" alt="wordpress" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"/>
-<img align="left" alt="wordpress" width="35px" src="https://reactnative.dev/img/header_logo.svg"/>
-<img align="left" alt="wordpress" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"/>
+<img align="left" alt="wordpress" width="35px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzoMhENcF0CpQ0y601DUDT-_E_j71Oskj8Vw&s"/>
 <img align="left" alt="wordpress" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"/>
 
 <br />
