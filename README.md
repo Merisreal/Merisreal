@@ -9,8 +9,8 @@
 - 🔭 I’m currently studying in: **Academy of Cryptography Techniques (KMA)**
 
   
-- 🔭My Blog For My Researching: **https://merlog.hashnode.dev/**
-- 
+- 🙈 My Blog For My Researching: **https://merlog.hashnode.dev/**
+
 - 📫 How to contact me: **merisnotreal@gmail.com**
 
 
